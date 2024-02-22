@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/frist-react-proj/static/css/main.02d57827.css",
+    "main.js": "/frist-react-proj/static/js/main.46e445d2.js",
+    "static/js/592.fb10a949.chunk.js": "/frist-react-proj/static/js/592.fb10a949.chunk.js",
+    "static/media/fa-solid-900.ttf": "/frist-react-proj/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/frist-react-proj/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/frist-react-proj/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/frist-react-proj/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/frist-react-proj/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/poert1 (1).png": "/frist-react-proj/static/media/poert1 (1).4417330275f78faa31c3.png",
+    "static/media/port3.png": "/frist-react-proj/static/media/port3.494a4a914b5471b41f3e.png",
+    "static/media/fa-regular-400.woff2": "/frist-react-proj/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/port2.png": "/frist-react-proj/static/media/port2.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/frist-react-proj/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/frist-react-proj/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/frist-react-proj/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/frist-react-proj/index.html",
+    "main.02d57827.css.map": "/frist-react-proj/static/css/main.02d57827.css.map",
+    "main.46e445d2.js.map": "/frist-react-proj/static/js/main.46e445d2.js.map",
+    "592.fb10a949.chunk.js.map": "/frist-react-proj/static/js/592.fb10a949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02d57827.css",
+    "static/js/main.46e445d2.js"
+  ]
+}
